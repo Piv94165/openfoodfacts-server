@@ -104,6 +104,7 @@ e_number:en:100
 efsa_evaluation_date:en: 2010-09-06
 efsa_evaluation:en: Scientific Opinion on the re-evaluation of curcumin (E 100) as a food additive
 efsa_evaluation_url:en: http://dx.doi.org/10.2903/j.efsa.2010.1679
+test:en:test
 vegan:en:yes
 vegetarian:en:yes
 # azb:E100, کورکومین
